@@ -14,6 +14,7 @@
 
 #include "EasyGifReader.h"
 #include "giflib/5.2.1/include/gif_lib.h"
+
 using std::size_t;
 using std::uint32_t;
 
