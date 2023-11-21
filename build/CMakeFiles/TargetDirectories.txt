@@ -1,0 +1,5 @@
+/Users/timofey/Library/Mobile Documents/com~apple~CloudDocs/Downloads/gif_read/build/CMakeFiles/gif_read.dir
+/Users/timofey/Library/Mobile Documents/com~apple~CloudDocs/Downloads/gif_read/build/CMakeFiles/package.dir
+/Users/timofey/Library/Mobile Documents/com~apple~CloudDocs/Downloads/gif_read/build/CMakeFiles/package_source.dir
+/Users/timofey/Library/Mobile Documents/com~apple~CloudDocs/Downloads/gif_read/build/CMakeFiles/edit_cache.dir
+/Users/timofey/Library/Mobile Documents/com~apple~CloudDocs/Downloads/gif_read/build/CMakeFiles/rebuild_cache.dir
